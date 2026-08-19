@@ -1,0 +1,13 @@
+## List of the different python librairy used. 
+matplotlib.pyplot 
+seaborn
+joblib 
+multiprocessing
+functools
+numpy 
+scipy.special 
+scipy.integrate 
+numba 
+tqdm 
+scipy.stats 
+math 
